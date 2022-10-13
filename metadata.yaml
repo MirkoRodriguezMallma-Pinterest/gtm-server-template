@@ -1,0 +1,7 @@
+homepage: "https://developers.pinterest.com/docs/features"
+documentation: "https://developers.pinterest.com/docs/api/v5/#operation/events/create"
+versions:
+  # Latest version
+- sha: 21904b19a2101bbe61beb5a9fc82863c25256f6c
+  changeNotes: Initial release for Pinterest server-side tag template.
+  # Older versions
